@@ -92,9 +92,9 @@ FIN FUNCION
 
 El archivo [`PilaAcciones.java`](PilaAcciones.java) contiene las clases `Nodo` y `Pila`, las cuatro operaciones y el método `main()` con un ejemplo de uso.
 
-Para ejecutar el programa en IntelliJ IDEA, crea una clase llamada `PilaAcciones` dentro de `src`, copia el código de `PilaAcciones.java` y ejecuta `main()`.
+Para ejecutar el programa en IntelliJ IDEA, abre un proyecto Java, crea la clase `PilaAcciones`, copia el contenido del archivo y ejecuta `main()`. En el proyecto Maven utilizado para las pruebas, la clase se ubicó en `src/main/java`.
 
-**Pruebas previstas** (actualizar con evidencia real tras ejecutar):
+**Pruebas realizadas en IntelliJ IDEA** (resultados comprobados en la ejecución local):
 
 | Prueba | Resultado esperado |
 |---|---|
@@ -105,7 +105,7 @@ Para ejecutar el programa en IntelliJ IDEA, crea una clase llamada `PilaAcciones
 | Retirar todas las acciones: `isEmpty()` | `true` |
 | Ejecutar `pop()` sobre una pila vacía | Muestra aviso y devuelve `null` |
 
-**Estado de las pruebas:** pendiente de confirmar mediante ejecución en IntelliJ IDEA.
+**Estado de las pruebas:** ejecutadas correctamente en IntelliJ IDEA. La consola mostró el orden LIFO esperado y finalizó con `Process finished with exit code 0`. La evidencia visual puede incorporarse al repositorio como una captura de la consola.
 
 ## 7. Conclusión
 
