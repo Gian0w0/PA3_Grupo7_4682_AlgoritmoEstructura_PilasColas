@@ -122,7 +122,7 @@ La matriz se actualizará según las contribuciones reales de cada integrante.
 
 ## 8. Video de exposición
 
-**Enlace:** Pendiente de publicación.
+**Enlace:https://canva.link/19aq71b4mfkfyfa**.
 
 Todos los integrantes participarán con cámaras encendidas y explicarán cómo resolvieron la evaluación y por qué eligieron una pila o una cola en cada situación.
 
